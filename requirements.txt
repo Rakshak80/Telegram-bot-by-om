@@ -1,15 +1,5 @@
-# Core Bot and Web Frameworks
 pyTelegramBotAPI
 Flask
-
-# System and Process Handling
 psutil
-
-# Database
-sqlite3-binary
-
-# Utilities and Helpers
 requests
-
-# Optional (used in your script but may not be critical)
 python-dateutil
